@@ -31,4 +31,6 @@ const levi = {
     currentFocus: "No Focus point at this time, go with the flow and be the person I have ever been.",
     funFact: "Do you know that you can hold magma/lava only once in your life?"
 };
+```
+👇 Hit in your console or terminal to connect with me.
 
