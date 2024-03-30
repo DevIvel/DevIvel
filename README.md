@@ -32,5 +32,6 @@ const levi = {
     funFact: "Do you know that you can hold magma/lava only once in your life?"
 };
 ```
-👇 Hit in your console or terminal to connect with me.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devivel&show_icons=true&locale=en" alt="devivel" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devivel&" alt="devivel" /></p>
